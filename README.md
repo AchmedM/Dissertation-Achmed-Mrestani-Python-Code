@@ -15,6 +15,7 @@ Install some more dependencies.
 conda config --add channels conda-forge
 conda install cgal
 conda install jupyter descartes scikit-learn scikit-image hdbscan pandas pytables shapely cython dask statsmodels vispy ipyvolume
+conda install astropy
 ```
 Start jupyter notebook.
 Open dissertation_achmed_mrestani_notebook.
