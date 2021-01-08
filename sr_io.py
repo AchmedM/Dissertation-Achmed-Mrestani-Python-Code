@@ -1,7 +1,5 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
 """
-This module includes functions to read and write localisation tabels 
+This module includes functions to read and write localisation tables 
 
 """
 import numpy as np

@@ -1,10 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 19 00:38:00 2017
-
-@author: Felix Repp
-"""
 import numpy as np
 from collections import OrderedDict
 import pdb

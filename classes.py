@@ -1,6 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-
 import selection_and_binning as sb
 from collections import OrderedDict
 import sr_io
