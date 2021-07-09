@@ -29,7 +29,7 @@ conda activate mrestani_diss
 Install some more dependencies
 ```
 conda config --add channels conda-forge
-install cgal jupyter scikit-learn scikit-image hdbscan pandas statsmodels astropy
+conda install cgal jupyter scikit-learn scikit-image hdbscan pandas statsmodels astropy
 conda install joblib==0.17.0
 ```
 
